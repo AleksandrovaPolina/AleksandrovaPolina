@@ -1,7 +1,7 @@
 ![Hi everyone!](./header.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F753E6&width=435&lines=I+am+a+frontend+developer)](https://git.io/typing-svg)
-
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
